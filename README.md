@@ -4,12 +4,23 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach each me at navikaag20@gmail.com
 -->
+
 ###
+
+
 <p align="center" justify="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Navika+Agarwal;" height = "40%" width = "100%"></p>
+
+
 ###
+
+
 ---
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRrb2t6dDc1MjhzdHppeGU1MHdkd3B2a2lrYjY4YjBiOWp5M3Z6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif"  />
+
+
 ###
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -33,17 +44,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+
 ###
+
+
 <div align="left"> 
 <a href="https://www.linkedin.com/in/navika-agarwal"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 </div>
-<div class="gmail-contact">
-<div><a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=navikaag20@gmail.com&tf=1"><img src="images/new.png" width="65px"></a></div>
-<div><a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=navikaag20@gmail.com&tf=1"><h5><p>gmail</p></h5></a></div>
-</div>
+
+
 ###
+
+
 ***
 ###
+
+
 <!---
 Navika-Agarwal/Navika-Agarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
