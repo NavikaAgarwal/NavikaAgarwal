@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning various programming languages
 - 💞️ I’m looking to collaborate on projects
-- 📫 Reach each me at navikaag20@gmail.com
+- 📫 Reach each me at navikaag24@outlook.com
 -->
 
 ###
