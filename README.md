@@ -1,8 +1,8 @@
 <!--- 👋 Hi, I’m Navika Agarwal
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning various programming languages
-- 💞️ I’m looking to collaborate on projects
-- 📫 Reach me at navikaag24@outlook.com
+- I’m interested in coding
+- I’m currently learning various programming languages
+- I’m looking to collaborate on projects
+- Reach me at navikaag24@outlook.com
 -->
 
 <!-- Intro Section -->
@@ -16,10 +16,10 @@
 ---
 
 ### About Me
-- 👀 I’m interested in coding and building projects
-- 🌱 Currently learning various programming languages and development tools
-- 💞️ Looking to collaborate on open-source projects
-- 📫 Reach me at [navikaag24@outlook.com](mailto:navikaag24@outlook.com)
+- I’m interested in coding and building projects
+- Currently learning various programming languages and development tools
+- Looking to collaborate on open-source projects
+- Reach me at [navikaag24@outlook.com](mailto:navikaag24@outlook.com)
 
 ---
 
@@ -50,13 +50,6 @@
 
 ---
 
-### Projects
-<!-- Add some project cards or descriptions here -->
-- **Project 1**: Description of project 1...
-- **Project 2**: Description of project 2...
-
----
-
 ### GSSOC Badges 🪶
 <details>	
  <summary><b>My GSSOC Badges 🪶</b></summary>
@@ -76,7 +69,3 @@
 </details>
 
 ---
-
-### Contact Me
-- 📫 You can reach me at [navikaag24@outlook.com](mailto:navikaag24@outlook.com)
-- 🌐 Visit my [GitHub profile](https://github.com/Navika-Agarwal)
