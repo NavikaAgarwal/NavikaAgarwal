@@ -1,10 +1,3 @@
-<!--- 👋 Hi, I’m Navika Agarwal
-- I’m interested in coding
-- I’m currently learning various programming languages
-- I’m looking to collaborate on projects
-- Reach me at navikaag24@outlook.com
--->
-
 <!-- Intro Section -->
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Navika+Agarwal;" height="40%" width="100%">
@@ -12,14 +5,6 @@
 
 <!-- Giphy Image -->
 <img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRrb2t6dDc1MjhzdHppeGU1MHdkd3B2a2lrYjY4YjBiOWp5M3Z6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif" />
-
----
-
-### About Me
-- I’m interested in coding and building projects
-- Currently learning various programming languages and development tools
-- Looking to collaborate on open-source projects
-- Reach me at [navikaag24@outlook.com](mailto:navikaag24@outlook.com)
 
 ---
 
@@ -52,7 +37,7 @@
 
 ### GSSOC Badges 🪶
 <details>	
- <summary><b>My GSSOC Badges 🪶</b></summary>
+ <summary><b>My GSSOC Badges</b></summary>
  <div align="center">
    <a href="https://gssoc.girlscript.tech/leaderboard">
      <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
