@@ -4,7 +4,7 @@
 </p>
 
 <!-- Giphy Image -->
-<img align="right" height="120" src=""C:\Users\LENOVO\Desktop\lessgo.gif"" />
+<img align="right" height="120" src="" />
 
 ---
 
