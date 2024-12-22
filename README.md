@@ -4,7 +4,7 @@
 </p>
 
 <!-- Giphy Image -->
-<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRrb2t6dDc1MjhzdHppeGU1MHdkd3B2a2lrYjY4YjBiOWp5M3Z6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ispEc1253326c/giphy.gif" />
+<img align="right" height="120" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoil-kt%2Fcoil%2Fissues%2F540&psig=AOvVaw13UgmBNe0NqEBkQwcep2T2&ust=1734927785915000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiRkeXDuooDFQAAAAAdAAAAABAE" />
 
 ---
 
