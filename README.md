@@ -4,7 +4,7 @@
 </p>
 
 <!-- Giphy Image -->
-<img align="right" height="120" src="" />
+<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJ5OGh5OWRtbWdibTRqbDBzOXNjeHBwNXJzYWF3dmZscTNpNjhvZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUwpNzg9IcyrK/giphy.gif" />
 
 ---
 
